@@ -1,3 +1,5 @@
+package dados;
+
 public class Conversao {
     public static void main(String[] args) {
         System.out.println("Conversões de tipos de dados ");

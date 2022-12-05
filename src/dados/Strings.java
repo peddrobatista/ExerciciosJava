@@ -1,6 +1,8 @@
+package dados;
+
 public class Strings {
     public static void main(String[] args) {
-        System.out.println("Strings em Java");
+        System.out.println("dados.Strings em Java");
         String txt = "dddd";
         System.out.println(txt.toUpperCase());
         String x = "OI ";
