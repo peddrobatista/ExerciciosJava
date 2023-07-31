@@ -1,4 +1,4 @@
-package classes;
+package interfaces;
 
 public interface Animals {
     public void animalsSounds();
